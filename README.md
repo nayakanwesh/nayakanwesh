@@ -16,8 +16,8 @@ I am a **Frontend Web Developer** with a Master's degree in Computer Application
 - **[Video Library Project](#)**: Created a video library application featuring video cards using Material-UI.
 - **[And Mores]
 
-## 💼 Experience
-- **Frontend Developer Intern at Juvenilia Technology** (Mar 2023 - May 2023): Gained practical experience in web development, contributing to various projects.
+## 💼 Internship
+- **Frontend Developer Internship at Juvenilia Technology** (Mar 2023 - May 2023): Gained practical experience in web development.
 
 
 ## 🔗 Connect with Me
