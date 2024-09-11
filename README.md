@@ -14,6 +14,7 @@ I am a **Frontend Web Developer** with a Master's degree in Computer Application
 - **[Online Fruits Ordering System](#)**: Developed a responsive web application for ordering fruits online.
 - **[Online Shopping Application](#)**: Built a complete online shopping platform with user authentication and product management.
 - **[Video Library Project](#)**: Created a video library application featuring video cards using Material-UI.
+- **[And Mores]
 
 ## 💼 Experience
 - **Frontend Developer Intern at Juvenilia Technology** (Mar 2023 - May 2023): Gained practical experience in web development, contributing to various projects.
