@@ -21,7 +21,7 @@ I am a **Frontend Web Developer** with a Master's degree in Computer Application
 
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/anwesh-nayak)
+- [LinkedIn](https://www.linkedin.com/in/anwesh-nayak-58b35a298/)
 - [Email](mailto:anweshnayak111@gmail.com)
 
 
