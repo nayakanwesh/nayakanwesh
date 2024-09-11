@@ -7,7 +7,7 @@ I am a **Frontend Web Developer** with a Master's degree in Computer Application
 - **Languages:** HTML5, CSS3, JavaScript, Python
 - **Frameworks & Libraries:** React.js, jQuery, Bootstrap
 - **Databases:** MongoDB, MySQL
-- **Tools:** Git, GitHub, Firebase
+- **Tools:** Git, GitHub, Firebase,Vercel,Netlify
 - **Other:** REST APIs, Redux, Context API
 
 ## 🌟 Projects
